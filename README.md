@@ -1,6 +1,4 @@
-# CMB-Foreground-Cleaning
-## Motivation
-This project was prart
+# CMB Foreground Cleaning
 ## Introduction
 This project was funded by the Columbia University cosmology department and uses data science and statistics to clean foreground components from relevant Cosmic Microwave Background Radiation maps. This project is motivated by the fact that the foreground contaminants in the CMB maps are not completely "Gaussian" i.e. they do not reflect a reflect a symmetrical normal distribution. This asymmetry stems from the fact that the contaminants across the sky are not evenly distributed, in large part due to the dust in the Milky Way plane. The dust in this region is significantly greater than dust in other regions of the sky. By minimizing the necessary statistical components, we can minimize the effects of this asymmetry and achieve a normal distribution for analysis.
 ## Methodology
